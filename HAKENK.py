@@ -1,2 +1,2 @@
 import os
-os system('apt upgrade')
+os.system('apt upgrade')
