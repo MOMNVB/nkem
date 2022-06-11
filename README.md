@@ -5,4 +5,4 @@ apt upgraed
  
 pkg install git 
 
-git clone 
+git clone https://github.com/MOMNVB/KOLD
